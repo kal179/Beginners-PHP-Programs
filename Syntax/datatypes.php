@@ -8,7 +8,7 @@
 
 		<body>
 			<p>
-				<h1 style="color:rgb(83, 128, 172); font-family:courier; font-size:45px; text-align:left;">Datatypes avaliable in hypertext preprocessor!</h1>
+				<h1 style="color:rgb(83, 128, 172); font-family:courier-new; font-size:45px; text-align:left;">Datatypes avaliable in hypertext preprocessor!</h1>
 			</p>
 
 			<?php
