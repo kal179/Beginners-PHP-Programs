@@ -35,8 +35,18 @@
 				$n %= 9;		// same as $n = $n % 9;
 				echo "<strong style='font-size:28px'>".$n."</strong>", "<br/>";
 				$n **= 3;		// same as $n = $n ** 3;
-				echo "<strong style='font-size:28px'>".$n."</strong>", "<br/>";  
+				echo "<strong style='font-size:28px'>".$n."</strong>", "<br/><br/>";  
 				// value is probably 27
+
+				$new = &$n;  // now the $new is reference to $n variable
+				echo "<strong style='font-size:28px'>".$new."</strong>", "<br/>"; // this should print 27
+				// similar to arithmetic operators there is string concatenation operator
+				// '.='
+				// example is below
+
+				$username = "kalpaktake";
+				$username .= "@gmail.com";
+				echo "<h2> my email address is : ".$username."</h2>"; 
 
 			?>
 
