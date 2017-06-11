@@ -8,7 +8,7 @@
 
 		<body>
 			<p>
-				<h1 style="color:rgb(255, 128, 0); font-family:courier; font-size:40px; text-align:left;">Comments are cool!</h1>
+				<h1 style="color:rgb(255, 128, 0); font-family:courier-new; font-size:40px; text-align:left;">Comments are cool!</h1>
 			</p>
 
 			<?php
