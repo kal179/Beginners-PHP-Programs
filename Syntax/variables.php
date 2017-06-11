@@ -8,7 +8,7 @@
 
 		<body>
 			<p>
-				<h1 style="color:gray; font-family:courier; font-size:35px; text-align:center;">PHP can store Variables.</h1>
+				<h1 style="color:gray; font-family:courier-new; font-size:35px; text-align:center;">PHP can store Variables.</h1>
 			</p>
 
 			<?php
