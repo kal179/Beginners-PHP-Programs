@@ -15,11 +15,16 @@
 			<?php
 	
 				echo "Hello, World <br />";
-				print "<strong> This is strong text! </strong>"; // It is said that print is slower than echo method
+				print "<strong> This is strong text! </strong><br/>"; // It is said that print is slower than echo method
+				echo sprintf("Hello, %s, You are %d years old! isn't it!", "Kalpak", 15); 
+				/*
+				sprintf is used for string formatting %s for string %d for integer %f for float 
+				and more options are avaliable for formatting!!
+				*/
 
 			?>
 
 
 		</body>
 	
-	</html>>
+	</html>
