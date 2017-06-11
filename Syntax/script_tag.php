@@ -8,7 +8,7 @@
 
 		<body>
 			<p>
-			    <h1 style="color:rgb(0, 128, 255); font-family:courier; font-size:42px; text-align:left;">Alternatives!</h1>
+			    <h1 style="color:rgb(0, 128, 255); font-family:courier-new; font-size:42px; text-align:left;">Alternatives!</h1>
 			</p>
 
 			<script language="php">
