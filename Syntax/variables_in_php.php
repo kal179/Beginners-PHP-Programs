@@ -22,7 +22,7 @@
 				$email = "kalpaktake@gmail.com";
 
 				$weird = "var";    // $$weird is same is $var because $weird ' s value is var
-				$var = "This is weirdly cool syntax style!"
+				$var = "This is weirdly cool syntax style!";
 
 				echo $$weird, "<br/><br/>";
 
@@ -32,10 +32,8 @@
 				$age = 15;
 				$age = 16;    // now $age is reassigned to value of 16
 
-				global $var = "value";  // global keyword let's you access variable globally in program for more refer to variable_scope.php
-
 			?>
 
 		</body>
 	
-	</html>>
+	</html>
