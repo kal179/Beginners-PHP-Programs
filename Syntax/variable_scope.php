@@ -8,7 +8,7 @@
 
 		<body>
 			<p>
-				<h1 style="color:rgb(173, 51, 255); font-family:courier; font-size:45px; text-align:left;">Global vs Local and Static</h1>
+				<h1 style="color:rgb(173, 51, 255); font-family:courier-new; font-size:45px; text-align:left;">Global vs Local and Static</h1>
 			</p>
 
 			<?php
