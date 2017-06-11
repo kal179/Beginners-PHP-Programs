@@ -21,12 +21,12 @@
 				// 5 : Modulus
 				// 6 : Exponentiation
 
-				echo "2420 + 1240 = ", 2420 + 1240;
-				echo "3.14159 - 0.14159 = ", 3.14159 - 0.14159;
-				echo "48 * 9 = ", 48 * 9;
-				echo "13140585 / 3 = ", 13140585 / 3;
-				echo "17 % 2 = ", 17 % 2;
-				echo "120 ** 2 = ", 120 ** 2;
+				echo "2420  +  1240  =  ", 2420 + 1240, "<br/>";
+				echo "3.14159  -  0.14159  =  ", 3.14159 - 0.14159, "<br/>";
+				echo "48  *  9  =  ", 48 * 9, "<br/>";
+				echo "13140585  /  3  =  ", 13140585 / 3, "<br/>";
+				echo "17  %  2  =  ", 17 % 2, "<br/>";
+				echo "120  **  2  =  ", 120 ** 2, "<br/>";
 
 				// Expressions and Operator Precendence
 				// You can execute mathematical expressions in php
@@ -35,7 +35,7 @@
 				// Like 12 * 12 - 10 will be 134 but 12 * (12 - 10) will be 24
 				// Therefore, Brackets are important for operator precendence
 
-				echo "echo ((12 - 144) / (17 ** 2) + (9 * 3 + (30 - 3) + (7 * 3 - 1)) * 0) * 0 = ", echo ((12 - 144) / (17 ** 2) + (9 * 3 + (30 - 3) + (7 * 3 - 1)) * 0) * 0;
+				echo "(12 ** 12) * 2 / (256 - 256 + (4 / 2)) = ", (12 ** 12) * 2 / (256 - 256 + (4 / 2)) * 0;
 		
 			?>
 
