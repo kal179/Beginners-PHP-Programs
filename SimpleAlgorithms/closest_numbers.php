@@ -16,6 +16,7 @@
 		    
 		*/
 
+
 		function closestNumbers($arr, $n, $r){
 			$res = array();
 			$temp = range($n - $r, $n + $r);
@@ -34,10 +35,13 @@
 			    return "None Matches Found! Try Changing third argument!";
 			}
 		}
+
+
 		$test = array(20, 23, 24, 26, 30, 50, 60, 70, 80);    	// change array to your convinence 
 		$final = closestNumbers($test, 25, 5);    	// change values accordingly
 		echo "The Closest Numbers are : \n\n";    
 		// change \n to <br/> in running in browser
+		
 		
 		foreach ($final as $f){
 		    echo $f, "\n";   
