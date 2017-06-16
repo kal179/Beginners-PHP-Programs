@@ -38,7 +38,7 @@
 				// '||' operator example
 				$age=15;
 				if ($age <= 18 || $age >= 60){
-					echo "<i>You get a discount of <b>20%</b> is computer history museum!</i><br/><br/>";
+					echo "<i>You get a discount of <b>20%</b> in computer history museum!</i><br/><br/>";
 				}
 				else{
 					echo "<i>Sorry! You have to pay full for your ticket!</i><br/><br/>";
