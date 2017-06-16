@@ -29,7 +29,7 @@
   // Testing the algorithm
 
 	$testCase=array(12, 435 ,34, 324, 34, 32, 5, 1.59034, 234, 435, -23, -2343443.0023, 0.2132434, 34, 213, 4, 123, 564, -1233, 1002, 24);
-	$test = maxN($testCase);
+	$test=maxN($testCase);
 	echo "Algorithm Result : ".$test, "\n";        // change \n to <br/> in if using browser
 	echo "Expected Result : ".max($testCase), "\n";   
 
