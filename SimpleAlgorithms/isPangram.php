@@ -42,7 +42,7 @@
 	
 
 	// Testing the algorithm
-	$tests = array("The quick brown fox jumps over the lazy dog.", "suicide squad is one hell of a movie", "sfgeabcdefgwwfhijklmnopqrssdftuvwxyzqwpocxmu");        // Enter as many tests as you want 
+	$tests = array("The quick brown fox jumps over the lazy dog.", "suicide squad is one hell of a movie", "sfgeabcdefgwwfhijklmnopqrssdftuvwxyzqwpocxmu", "Sphinx of black quartz, judge my vow.");        // Enter as many tests as you want 
 	
 	// Just Testing all tests from array $tests
 	foreach($tests as $test){
